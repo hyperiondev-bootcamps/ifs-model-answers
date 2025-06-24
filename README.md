@@ -1,4 +1,4 @@
-# Immersive Full Stack Web & Software Engineer Bootcamp	Model Answer Repository
+# Immersive Full Stack Web & Software Engineer	Model Answer Repository
 
 Welcome to the **Model Answers** repository for the Immersive Full Stack Web & Software Engineer Bootcamp.
 
